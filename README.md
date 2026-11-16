@@ -33,6 +33,14 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
+### 🖥️ Weslei OS — meu portfólio interativo
+
+<p align="center">
+  <a href="https://joseweslei45-debug.github.io/weslei-os/"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Abrir_o_Weslei_OS-ff2d3d?style=for-the-badge" alt="Abrir o Weslei OS" /></a>
+</p>
+
+Um **sistema operacional no navegador** onde cada app é um dos meus projetos rodando ao vivo: agende horários com as regras da API Java, coloque vídeos numa fila com workers, gere legendas pelo microfone e veja o raio-x do seu próprio clique. Tudo em JavaScript puro, sem frameworks. → [código](https://github.com/joseweslei45-debug/weslei-os)
+
 ### 🚀 Projetos em destaque
 
 | Projeto | Descrição | Stack |
@@ -42,6 +50,7 @@
 | [🎙️ transcritor-local](https://github.com/joseweslei45-debug/transcritor-local) | Transcrição de áudio e geração de legendas 100% offline com IA open source | Python · faster-whisper |
 | [💰 dashboard-financas](https://github.com/joseweslei45-debug/dashboard-financas) | Importa extratos CSV/OFX, categoriza gastos e gera gráficos interativos | HTML · CSS · JS · Chart.js |
 | [🔗 encurtador-url-metricas](https://github.com/joseweslei45-debug/encurtador-url-metricas) | Encurtador de links com analytics de cliques, navegador e horário | Node.js · Express · SQLite |
+| [🖥️ weslei-os](https://github.com/joseweslei45-debug/weslei-os) | Portfólio interativo: um "sistema operacional" web que integra todos os projetos | JavaScript · Web APIs |
 | [🤖 Bot-Automacao-Whatsapp](https://github.com/joseweslei45-debug/Bot-Automacao-Whatsapp) | Envio automático de mensagens a partir de planilha | Python · PyAutoGUI |
 
 ### 📊 Estatísticas
